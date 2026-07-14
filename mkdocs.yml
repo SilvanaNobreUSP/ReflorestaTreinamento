@@ -16,6 +16,9 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/home-button.js
+
 markdown_extensions:
   - admonition
   - attr_list
@@ -26,14 +29,14 @@ markdown_extensions:
 nav:
   - Início: index.md
   - Aulas:
-      - Aula 01 - Visão geral da plataforma: aula-01-visao-geral.md
-      - Aula 02 - Acesso e perfis de usuário: aula-02-acesso-perfis.md
-      - Aula 03 - Navegação e painel inicial: aula-03-navegacao-painel.md
-      - Aula 04 - Cadastro de áreas: aula-04-cadastro-areas.md
-      - Aula 05 - Dados ambientais e territoriais: aula-05-dados-ambientais.md
-      - Aula 06 - Planejamento de restauração: aula-06-planejamento-restauracao.md
-      - Aula 07 - Registro de ações e evidências: aula-07-acoes-evidencias.md
-      - Aula 08 - Acompanhamento de projetos: aula-08-acompanhamento-projetos.md
-      - Aula 09 - Relatórios e exportações: aula-09-relatorios-exportacoes.md
-      - Aula 10 - Boas práticas de uso interno: aula-10-boas-praticas.md
-      - Aula 11 - Encerramento e próximos passos: aula-11-encerramento.md
+      - Aula 01 - Introdução à Plataforma Refloresta-SP: aula-01.md
+      - Aula 02 - Conceito de Florestas Multifuncionais: aula-02.md
+      - Aula 03 - Governança e Estrutura da Plataforma: aula-03.md
+      - Aula 04 - Base de Dados e Critérios Técnicos: aula-04.md
+      - Aula 05 - Modelagem por Faixas de Plantio: aula-05.md
+      - Aula 06 - Seleção e Ranqueamento de Espécies: aula-06.md
+      - Aula 07 - Simulação e Combinação de Espécies: aula-07.md
+      - Aula 08 - Planejamento Produtivo e Financeiro: aula-08.md
+      - Aula 09 - Funcionamento da Plataforma: aula-09.md
+      - Aula 10 - Resultados e Contribuições: aula-10.md
+      - Aula 11 - Outputs e Aplicação Prática: aula-11.md

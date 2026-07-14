@@ -2,64 +2,58 @@
 
 Esta plataforma reúne o material para treinamento interno SEMIL sobre a plataforma ReflorestaSP.
 
-O objetivo do treinamento é orientar equipes internas no uso organizado da plataforma, desde o acesso inicial até o acompanhamento de projetos, registro de informações, consulta de dados, geração de relatórios e consolidação das boas práticas de trabalho.
+O objetivo do treinamento é apresentar os fundamentos, critérios técnicos, lógica de funcionamento e produtos finais da Plataforma Refloresta-SP, conectando o conhecimento científico às aplicações práticas de plantio.
 
 ## Sequência recomendada de aulas
 
-Siga as aulas na ordem abaixo para avançar do contexto geral da plataforma até os fluxos operacionais mais completos.
+Siga as aulas na ordem abaixo para avançar do contexto da iniciativa até a aplicação prática dos resultados gerados pela Refloresta-SP.
 
 <div class="lesson-grid" markdown>
 
 [**Aula 01**  
-Visão geral da plataforma](aula-01-visao-geral.md)
+Introdução à Plataforma Refloresta-SP](aula-01.md)
 {: .lesson-card }
 
 [**Aula 02**  
-Acesso e perfis de usuário](aula-02-acesso-perfis.md)
+Conceito de Florestas Multifuncionais](aula-02.md)
 {: .lesson-card }
 
 [**Aula 03**  
-Navegação e painel inicial](aula-03-navegacao-painel.md)
+Governança e Estrutura da Plataforma](aula-03.md)
 {: .lesson-card }
 
 [**Aula 04**  
-Cadastro de áreas](aula-04-cadastro-areas.md)
+Base de Dados e Critérios Técnicos](aula-04.md)
 {: .lesson-card }
 
 [**Aula 05**  
-Dados ambientais e territoriais](aula-05-dados-ambientais.md)
+Modelagem por Faixas de Plantio](aula-05.md)
 {: .lesson-card }
 
 [**Aula 06**  
-Planejamento de restauração](aula-06-planejamento-restauracao.md)
+Seleção e Ranqueamento de Espécies](aula-06.md)
 {: .lesson-card }
 
 [**Aula 07**  
-Registro de ações e evidências](aula-07-acoes-evidencias.md)
+Simulação e Combinação de Espécies](aula-07.md)
 {: .lesson-card }
 
 [**Aula 08**  
-Acompanhamento de projetos](aula-08-acompanhamento-projetos.md)
+Planejamento Produtivo e Financeiro](aula-08.md)
 {: .lesson-card }
 
 [**Aula 09**  
-Relatórios e exportações](aula-09-relatorios-exportacoes.md)
+Funcionamento da Plataforma](aula-09.md)
 {: .lesson-card }
 
 [**Aula 10**  
-Boas práticas de uso interno](aula-10-boas-praticas.md)
+Resultados e Contribuições](aula-10.md)
 {: .lesson-card }
 
 [**Aula 11**  
-Encerramento e próximos passos](aula-11-encerramento.md)
+Outputs e Aplicação Prática](aula-11.md)
 {: .lesson-card }
 
 </div>
 
-## Como usar este material
 
-- Leia o objetivo de cada aula antes de iniciar.
-- Assista ao vídeo incorporado quando o arquivo MP4 estiver disponível em `docs/videos/`.
-- Use o passo a passo como roteiro de execução na plataforma.
-- Consulte os materiais complementares na pasta `docs/pdfs/`.
-- Atualize os textos sempre que houver mudança nos fluxos internos da ReflorestaSP.

@@ -56,3 +56,11 @@
   max-width: 100%;
   border-radius: 8px;
 }
+
+.md-home-button {
+  color: #ffffff;
+}
+
+.md-home-button:hover {
+  opacity: 0.82;
+}
