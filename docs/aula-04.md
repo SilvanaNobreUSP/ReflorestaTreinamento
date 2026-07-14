@@ -4,36 +4,28 @@
 
 Explicar quais tipos de dados alimentam a plataforma e quais critérios técnicos orientam as recomendações.
 
-**Duração estimada:** cerca de 10 minutos.
+## Explicação
 
-## Explicação principal
-
-A qualidade das recomendações depende da base de dados usada pela Refloresta-SP. A plataforma considera características ecológicas, silviculturais e de mercado para avaliar espécies, contextos e possibilidades de plantio.
-
-Alguns conceitos são fundamentais para interpretar os resultados: fitofisionomia, região ecológica, serviços ecossistêmicos e adaptação das espécies ao contexto regional. Esses critérios ajudam a evitar recomendações genéricas e fortalecem a aplicação técnica da ferramenta.
-
-![Ilustração da base de dados e critérios técnicos](images/aula-04-cadastro-areas.svg)
-
-## Passo a passo
-
-1. Identifique os dados ecológicos usados pela plataforma.
-2. Identifique os dados silviculturais considerados.
-3. Observe como informações de mercado entram na análise.
-4. Revise os conceitos de fitofisionomia e região ecológica.
-5. Relacione serviços ecossistêmicos às escolhas de espécies.
-6. Avalie por que a adaptação regional é essencial.
+Nesta aula, são apresentados os principais tipos de dados usados pela plataforma, incluindo características ecológicas, silviculturais e de mercado. Também são introduzidos conceitos como fitofisionomia, região ecológica, serviços ecossistêmicos e adaptação das espécies.
 
 ## Vídeo da aula
 
 <video controls width="100%">
-  <source src="videos/aula-04.mp4" type="video/mp4">
+  <source src="../videos/aula-04.mp4" type="video/mp4">
   Seu navegador não suporta vídeo HTML5.
 </video>
 
-## Material complementar
+## Slides da aula
 
-- [Baixar PDF da Aula 04](pdfs/material-complementar-aula-04.pdf)
-- [Acessar slides da Aula 04](slides/aula-04.pdf)
+Os slides desta aula funcionam como um resumo dos principais pontos apresentados no vídeo.
+
+<iframe class="slides-frame" src="../slides/aula-04.pdf#view=FitH" title="Slides-resumo da Aula 04"></iframe>
+
+## Material da aula
+
+- <a href="../videos/aula-04.mp4" download>Baixar vídeo da Aula 04</a>
+- [Baixar slides-resumo da Aula 04](slides/aula-04.pdf)
+- [Baixar material complementar da Aula 04](pdfs/material-complementar-aula-04.pdf)
 
 ## Resumo final
 

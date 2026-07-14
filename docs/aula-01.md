@@ -4,35 +4,28 @@
 
 Apresentar o que é a Plataforma Refloresta-SP, sua finalidade e o contexto institucional que motivou sua criação.
 
-**Duração estimada:** cerca de 10 minutos.
+## Explicação
 
-## Explicação principal
-
-A Plataforma Refloresta-SP reúne um sistema de dados e uma solução de software voltados ao apoio do plantio de florestas multifuncionais no Estado de São Paulo. A iniciativa organiza conhecimento técnico para que ele possa ser aplicado de forma prática no planejamento de plantios.
-
-O histórico da plataforma começa em 2012, com o desenvolvimento de bases, métodos e articulações técnicas. Em 2023, a iniciativa foi institucionalizada pela Resolução SEMIL nº 03/2023, fortalecendo seu papel como instrumento de apoio a políticas públicas e ações de restauração.
-
-![Ilustração da introdução à plataforma Refloresta-SP](images/aula-01-visao-geral.svg)
-
-## Passo a passo
-
-1. Compreenda que a Refloresta-SP combina dados técnicos e software.
-2. Relacione a plataforma ao objetivo de apoiar florestas multifuncionais.
-3. Revise o histórico da iniciativa desde 2012.
-4. Identifique a importância da Resolução SEMIL nº 03/2023.
-5. Observe como o conhecimento técnico é convertido em recomendações práticas.
+Nesta aula, são apresentados o conceito geral da plataforma, sua composição como sistema de dados e software, o objetivo de apoiar o plantio de florestas multifuncionais no Estado de São Paulo, o histórico da iniciativa desde 2012 e sua institucionalização pela Resolução SEMIL nº 03/2023.
 
 ## Vídeo da aula
 
 <video controls width="100%">
-  <source src="videos/aula-01.mp4" type="video/mp4">
+  <source src="../videos/aula-01.mp4" type="video/mp4">
   Seu navegador não suporta vídeo HTML5.
 </video>
 
-## Material complementar
+## Slides da aula
 
-- [Baixar PDF da Aula 01](pdfs/material-complementar-aula-01.pdf)
-- [Acessar slides da Aula 01](slides/aula-01.pdf)
+Os slides desta aula funcionam como um resumo dos principais pontos apresentados no vídeo.
+
+<iframe class="slides-frame" src="../slides/aula-01.pdf#view=FitH" title="Slides-resumo da Aula 01"></iframe>
+
+## Material da aula
+
+- <a href="../videos/aula-01.mp4" download>Baixar vídeo da Aula 01</a>
+- [Baixar slides-resumo da Aula 01](slides/aula-01.pdf)
+- [Baixar material complementar da Aula 01](pdfs/material-complementar-aula-01.pdf)
 
 ## Resumo final
 
