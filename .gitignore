@@ -1,0 +1,8 @@
+site/
+.cache/
+mkdocs-serve*.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/

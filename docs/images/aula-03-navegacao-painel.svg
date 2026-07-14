@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Navegacao e painel inicial</title>
+  <desc id="desc">Painel inicial com menu lateral, indicadores e filtros.</desc>
+  <rect width="900" height="360" rx="18" fill="#f5f7f8"/>
+  <rect x="70" y="46" width="760" height="268" rx="14" fill="#ffffff" stroke="#cbd8dd"/>
+  <rect x="70" y="46" width="170" height="268" rx="14" fill="#14482d"/>
+  <g fill="#63b56f">
+    <rect x="100" y="92" width="92" height="10" rx="5"/>
+    <rect x="100" y="132" width="110" height="10" rx="5"/>
+    <rect x="100" y="172" width="78" height="10" rx="5"/>
+    <rect x="100" y="212" width="120" height="10" rx="5"/>
+  </g>
+  <g fill="#e9f1ed" stroke="#b9d4c3">
+    <rect x="278" y="86" width="134" height="78" rx="10"/>
+    <rect x="438" y="86" width="134" height="78" rx="10"/>
+    <rect x="598" y="86" width="134" height="78" rx="10"/>
+    <rect x="278" y="198" width="454" height="70" rx="10"/>
+  </g>
+  <text x="505" y="238" font-family="Arial, sans-serif" font-size="22" fill="#14482d" text-anchor="middle">Filtros e indicadores</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Acesso e perfis de usuario</title>
+  <desc id="desc">Tela de login conectada a perfis e permissoes.</desc>
+  <rect width="900" height="360" rx="18" fill="#eef5f1"/>
+  <rect x="90" y="62" width="310" height="236" rx="16" fill="#ffffff" stroke="#cddbd3"/>
+  <circle cx="245" cy="128" r="34" fill="#63b56f"/>
+  <rect x="140" y="184" width="210" height="18" rx="9" fill="#dbe7e0"/>
+  <rect x="140" y="220" width="210" height="18" rx="9" fill="#dbe7e0"/>
+  <rect x="178" y="258" width="134" height="28" rx="14" fill="#1f6f43"/>
+  <text x="245" y="278" font-family="Arial, sans-serif" font-size="15" fill="#ffffff" text-anchor="middle">Entrar</text>
+  <g fill="#ffffff" stroke="#9bc8aa">
+    <rect x="520" y="82" width="250" height="56" rx="10"/>
+    <rect x="520" y="152" width="250" height="56" rx="10"/>
+    <rect x="520" y="222" width="250" height="56" rx="10"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="18" fill="#14482d">
+    <text x="550" y="117">Consulta</text>
+    <text x="550" y="187">Cadastro</text>
+    <text x="550" y="257">Relatorios</text>
+  </g>
+  <path d="M420 180h76" stroke="#1d5d8f" stroke-width="6" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,39 @@
+site_name: Treinamento SEMIL - ReflorestaSP
+site_description: Material para treinamento interno SEMIL sobre a plataforma ReflorestaSP.
+site_author: SEMIL
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/logo.svg
+  favicon: assets/favicon.svg
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Início: index.md
+  - Aulas:
+      - Aula 01 - Visão geral da plataforma: aula-01-visao-geral.md
+      - Aula 02 - Acesso e perfis de usuário: aula-02-acesso-perfis.md
+      - Aula 03 - Navegação e painel inicial: aula-03-navegacao-painel.md
+      - Aula 04 - Cadastro de áreas: aula-04-cadastro-areas.md
+      - Aula 05 - Dados ambientais e territoriais: aula-05-dados-ambientais.md
+      - Aula 06 - Planejamento de restauração: aula-06-planejamento-restauracao.md
+      - Aula 07 - Registro de ações e evidências: aula-07-acoes-evidencias.md
+      - Aula 08 - Acompanhamento de projetos: aula-08-acompanhamento-projetos.md
+      - Aula 09 - Relatórios e exportações: aula-09-relatorios-exportacoes.md
+      - Aula 10 - Boas práticas de uso interno: aula-10-boas-praticas.md
+      - Aula 11 - Encerramento e próximos passos: aula-11-encerramento.md

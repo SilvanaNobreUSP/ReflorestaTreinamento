@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">ReflorestaSP</title>
+  <rect width="160" height="160" rx="24" fill="#14482d"/>
+  <path d="M80 24c-18 18-34 37-34 61 0 21 15 39 34 45 19-6 34-24 34-45 0-24-16-43-34-61Z" fill="#63b56f"/>
+  <path d="M80 44v76M58 82l22 14 22-14M66 62l14 10 14-10" stroke="#ffffff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

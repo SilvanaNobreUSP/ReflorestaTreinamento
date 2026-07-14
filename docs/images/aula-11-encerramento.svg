@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Encerramento e proximos passos</title>
+  <desc id="desc">Mapa de proximos passos apos o treinamento.</desc>
+  <rect width="900" height="360" rx="18" fill="#eef5f1"/>
+  <circle cx="450" cy="180" r="86" fill="#ffffff" stroke="#9bc8aa" stroke-width="4"/>
+  <path d="M450 118c-24 26-42 48-42 78 0 24 17 43 42 52 25-9 42-28 42-52 0-30-18-52-42-78Z" fill="#63b56f"/>
+  <path d="M450 142v92M426 190l24 15 24-15" stroke="#ffffff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#1d5d8f">
+    <circle cx="230" cy="180" r="18"/>
+    <circle cx="670" cy="180" r="18"/>
+    <circle cx="450" cy="72" r="18"/>
+    <circle cx="450" cy="288" r="18"/>
+  </g>
+  <g stroke="#1d5d8f" stroke-width="4" stroke-linecap="round">
+    <path d="M248 180h112"/>
+    <path d="M540 180h112"/>
+    <path d="M450 90v44"/>
+    <path d="M450 226v44"/>
+  </g>
+</svg>

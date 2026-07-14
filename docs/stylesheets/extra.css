@@ -1,0 +1,58 @@
+:root {
+  --semil-green: #1f6f43;
+  --semil-green-dark: #14482d;
+  --semil-blue: #1d5d8f;
+  --semil-gray: #f4f6f5;
+}
+
+.md-header,
+.md-tabs {
+  background-color: var(--semil-green-dark);
+}
+
+.md-typeset h1 {
+  color: var(--semil-green-dark);
+  font-weight: 700;
+}
+
+.md-typeset h2 {
+  color: var(--semil-green);
+}
+
+.lesson-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.8rem;
+  margin: 1.2rem 0 1.8rem;
+}
+
+.lesson-card {
+  display: block;
+  min-height: 116px;
+  padding: 1rem;
+  border: 1px solid rgba(31, 111, 67, 0.22);
+  border-radius: 8px;
+  background: #ffffff;
+  color: var(--semil-green-dark) !important;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(20, 72, 45, 0.07);
+}
+
+.lesson-card:hover {
+  border-color: var(--semil-green);
+  box-shadow: 0 5px 14px rgba(20, 72, 45, 0.12);
+}
+
+.md-typeset video {
+  display: block;
+  max-width: 100%;
+  margin: 1rem 0;
+  border: 1px solid #d9e2dd;
+  border-radius: 8px;
+  background: #111;
+}
+
+.md-typeset img {
+  max-width: 100%;
+  border-radius: 8px;
+}

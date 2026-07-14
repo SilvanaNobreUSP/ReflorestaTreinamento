@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Relatorios e exportacoes</title>
+  <desc id="desc">Relatorio com grafico e botao de exportacao.</desc>
+  <rect width="900" height="360" rx="18" fill="#f4f6f5"/>
+  <rect x="110" y="52" width="500" height="256" rx="14" fill="#ffffff" stroke="#cddbd3"/>
+  <rect x="150" y="96" width="250" height="16" rx="8" fill="#dbe7e0"/>
+  <rect x="150" y="136" width="120" height="120" rx="8" fill="#63b56f"/>
+  <rect x="294" y="176" width="120" height="80" rx="8" fill="#1d5d8f"/>
+  <rect x="438" y="118" width="120" height="138" rx="8" fill="#9bc8aa"/>
+  <rect x="650" y="146" width="150" height="64" rx="14" fill="#1f6f43"/>
+  <text x="725" y="185" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle">Exportar</text>
+</svg>

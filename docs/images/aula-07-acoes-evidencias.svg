@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Registro de acoes e evidencias</title>
+  <desc id="desc">Lista de acoes com anexos de evidencias.</desc>
+  <rect width="900" height="360" rx="18" fill="#f5f7f8"/>
+  <rect x="86" y="58" width="728" height="244" rx="14" fill="#ffffff" stroke="#cddbd3"/>
+  <g fill="#e9f1ed" stroke="#b9d4c3">
+    <rect x="126" y="98" width="450" height="44" rx="8"/>
+    <rect x="126" y="160" width="450" height="44" rx="8"/>
+    <rect x="126" y="222" width="450" height="44" rx="8"/>
+  </g>
+  <g fill="#1f6f43">
+    <circle cx="154" cy="120" r="8"/>
+    <circle cx="154" cy="182" r="8"/>
+    <circle cx="154" cy="244" r="8"/>
+  </g>
+  <rect x="630" y="98" width="126" height="168" rx="10" fill="#d8eadf" stroke="#9bc8aa"/>
+  <circle cx="693" cy="158" r="28" fill="#63b56f"/>
+  <path d="M656 238l32-34 24 22 18-18 26 30Z" fill="#1d5d8f"/>
+</svg>
